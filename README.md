@@ -2,7 +2,7 @@
 
 ### Docker tools
 
-Download : [https://www.docker.com/products/docker-toolbox](https://www.docker.com/products/docker-toolbox)
+Download (version 1.12.0) : [https://www.docker.com/products/docker-toolbox](https://www.docker.com/products/docker-toolbox)
 
 ### Download docker images
 ```
