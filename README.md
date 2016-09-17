@@ -12,20 +12,26 @@ docker pull hyperledger/fabric-membersrvc:latest
 
 ### Clone repo
 ```
-git clone hhttps://github.com/PhyrexTsai/hyperledger-docker
+git clone https://github.com/PhyrexTsai/hyperledger-docker
 ```
 
 ### Run docker 
 
 ```
+cd <your-path-to>/hyperledger-docker
 docker-compose up
 ```
 
 ### Connect console
 
+Use bash
+
 ```
 bash -c "clear && docker exec -it hyperledger_vp0_1 sh"
 ```
+
+or you can also install `Kitematic` to open a console.
+
 
 ### Build code
 
