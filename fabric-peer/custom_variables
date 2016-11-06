@@ -1,0 +1,2 @@
+#!/bin/bash
+export HYPERLEDGER_DOCKER_SCRIPTS_DIR=~/Documents/git/docker/docker-hyperledger/fabric-peer/scripts
