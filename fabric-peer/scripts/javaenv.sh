@@ -6,10 +6,10 @@ cd /opt/gopath/src/github.com/hyperledger/fabric
 
 # clone hyperledger-cloudfounding
 cd /opt/gopath/src/github.com/hyperledger/fabric/examples/chaincode/java
-git clone https://github.com/PhyrexTsai/hyperledger-crowdfounding.git
-cd hyperledger-crowdfounding
+git clone https://github.com/PhyrexTsai/hyperledger-crowdfunding.git
+cd hyperledger-crowdfunding
 
-# clean build hyperledger-crowdfounding
+# clean build hyperledger-crowdfunding
 gradle -b build.gradle clean
 gradle -b build.gradle build
 #gradle -b build.gradle run
